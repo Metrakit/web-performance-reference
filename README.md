@@ -10,6 +10,7 @@ In this repository you can find many tools for analyse the performance of your w
 
 ## PHP Tools
 - https://blackfire.io (with Chrome extension)
+- https://github.com/itsgoingd/clockwork
 
 ## Online Tools
 - http://yellowlab.tools/
