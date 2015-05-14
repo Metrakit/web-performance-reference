@@ -1,6 +1,6 @@
 # List of links for analyse the web performance
 
-In this repository you can find many tools for analyse the performance of your website
+In this repository you can find many tools for analyse the performance of your websites.
 
 ## Frontend Tools
 - https://github.com/okor/justice
